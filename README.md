@@ -8,7 +8,6 @@ Project ini membangun aplikasi inventaris barang sederhana dari nol (scratch) me
 
 ## 🖼️ Tampilan Aplikasi (Contoh)
 
-*(Catatan: Ganti gambar di bawah ini dengan screenshot aplikasi Anda)*
 
 | Halaman Login | Dashboard Admin |
 | :---: | :---: |
